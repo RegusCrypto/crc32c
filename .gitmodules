@@ -1,0 +1,18 @@
+[submodule "third_party/glog"]
+	path = third_party/glog
+	url = https://github.com/google/glog
+[submodule "third_party/benchmark"]
+	path = third_party/benchmark
+	url = https://github.com/google/benchmark
+[submodule "third_party/googletest"]
+	path = third_party/googletest
+	url = https://github.com/google/googletest
+[submodule "external/glog"]
+	path = external/glog
+	url = http://github.com/google/glog
+[submodule "external/benchmark"]
+	path = external/benchmark
+	url = http://github.com/google/benchmark
+[submodule "external/googletest"]
+	path = external/googletest
+	url = http://github.com/google/googletest
